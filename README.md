@@ -2,6 +2,7 @@
 ## Custom VGA video card + ATmega88 driver
 
 (slowed down by 64 times)
+
 ![snake](./.doc/video_card.gif)
 ![setup](./.doc/setup.png)
 
